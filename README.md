@@ -14,7 +14,8 @@ This repository contains solutions and documentation for the **Cyber@ANZ Virtual
 ## 📂 Contents  
 
 ### 🔍 Task 1: Social Engineering Investigation  
-- Analyze emails to **identify phishing attempts** and report suspicious activity.  
+- **Analyze emails** to identify phishing attempts, suspicious links, and malicious attachments.  
+- **Report findings** to help determine whether emails should be blocked or released.  
 
 ### 🌐 Task 2: Digital Investigation  
 - Examine a **packet capture (PCAP) file** to investigate potential cybersecurity threats using open-source tools.  
@@ -24,32 +25,36 @@ This repository contains solutions and documentation for the **Cyber@ANZ Virtual
 ## 🔍 Task 1: Social Engineering Investigation  
 
 ### 📌 Task Overview  
-In this task, you have been allocated a **set of emails** to investigate. Your job is to **determine whether each email is malicious or safe** and, if malicious, provide a brief report explaining why.  
+You have been assigned **7 emails** to investigate. Some of these emails may contain **malicious content**, such as:  
+- **Phishing attempts** targeting private account credentials  
+- **Malicious attachments** that may contain malware  
+- **Suspicious links** leading to fraudulent websites  
 
-Phishing emails attempt to **fraudulently obtain personal information** by impersonating a trustworthy entity. These messages often instruct users to **click a link** and enter their **credentials or personal details**.  
+Your task is to **analyze each email** and determine whether it should be **blocked or released** based on its content and security risks.  
 
 ### 🎯 What You'll Learn  
-- How to **identify phishing emails** and their characteristics  
-- The importance of **SSL certificates** for verifying website authenticity  
-- Best practices for **email security and phishing prevention**  
+- How to **identify phishing emails** and their warning signs  
+- The impact of **malicious email content** in cybersecurity threats  
+- How to properly **document and report findings** in an investigation  
 
 ### 🛠️ What You'll Do  
-1. **Analyze the provided emails** for phishing indicators  
-2. **Check for SSL certificate verification** by ensuring the website:  
-   - Uses `https://` instead of `http://`  
-   - Displays a **security lock** or key icon in the address bar  
-3. **Identify common phishing red flags**, including:  
-   - Requests for **personal information** or security credentials  
-   - Suspicious or mismatched **sender addresses**  
-   - Unusual **links or attachments**  
-4. **Write a brief report** on any identified phishing emails, explaining why they are malicious  
+1. **Review the emails** provided in the PDF (`/resources/email_to_investigate.pdf`).  
+2. **Analyze each email** for security threats, focusing on:  
+   - **Sender authenticity** (email address verification)  
+   - **Attachments** (malicious file indicators)  
+   - **Embedded links** (safe vs. fraudulent URLs)  
+   - **Content and language** (phishing red flags)  
+3. **Use the provided answer template** (`/resources/email_analysis_template.docx`) to document:  
+   - Whether the email is **safe or malicious**  
+   - The **reasons** for classification (e.g., phishing attempt, suspicious attachment, domain mismatch)  
+   - Suggested **actions** (block, release, or further review)  
 
-### 🔒 Best Practices for Avoiding Phishing Attacks  
-- Treat all emails requesting **personal information** with suspicion  
-- Never enter sensitive data on a **non-secure website**  
-- Keep **antivirus and firewall software** up to date  
-- Regularly **change passwords** for online accounts  
-- If unsure about an email’s legitimacy, **contact ANZ Customer Service** before clicking any links  
+### 🔒 Best Practices for Email Security  
+- **Verify sender authenticity** before trusting any email.  
+- **Hover over links** to check if they match the expected domain.  
+- **Do not open attachments** from unknown or suspicious sources.  
+- **Check for spelling errors, urgency, or threats**—common phishing tactics.  
+- **Report suspicious emails** to IT/security teams rather than engaging with them.  
 
 ## 🚀 About This Project  
 This project simulates **real-world cybersecurity tasks** at **ANZ Australia**, enhancing skills in:  
@@ -59,3 +64,4 @@ This project simulates **real-world cybersecurity tasks** at **ANZ Australia**, 
 
 ---
 🔗 **Note:** This is a self-paced job simulation designed to develop cybersecurity investigation skills.  
+
