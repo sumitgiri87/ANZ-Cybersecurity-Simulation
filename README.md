@@ -9,7 +9,7 @@ This repository contains solutions and documentation for the **Cyber@ANZ Virtual
 - 📧 Phishing Email Analysis  
 - 🌐 Network Traffic Investigation  
 - 🕵️‍♂️ Open Source Intelligence (OSINT)  
-- 📝 Security Report Writing  
+- 📝 Security Report Writing 
 
 ## 📂 Contents  
 
