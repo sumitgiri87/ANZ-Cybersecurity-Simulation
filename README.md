@@ -15,7 +15,7 @@ This repository contains solutions and documentation for the **Cyber@ANZ Virtual
 
 ### 🔍 Task 1: Social Engineering Investigation  
 - **Analyze emails** to identify phishing attempts, suspicious links, and malicious attachments.  
-- **Report findings** to help determine whether emails should be blocked or released.  
+- **Report findings** to help determine whether emails should be blocked or released. 
 
 ### 🌐 Task 2: Digital Investigation  
 - Examine a **packet capture (PCAP) file** to investigate potential cybersecurity threats using open-source tools.  
