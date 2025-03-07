@@ -5,7 +5,7 @@ This repository contains solutions and documentation for the **Cyber@ANZ Virtual
 
 ## 📌 Quick Overview  
 **Key Skills Gained:**  
-- 🛡️ Social Engineering Investigation  
+- 🛡️ Social Engineering Investigation 
 - 📧 Phishing Email Analysis  
 - 🌐 Network Traffic Investigation  
 - 🕵️‍♂️ Open Source Intelligence (OSINT)  
