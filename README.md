@@ -63,5 +63,5 @@ This project simulates **real-world cybersecurity tasks** at **ANZ Australia**, 
 ✅ Security documentation  
 
 ---
-🔗 **Note:** This is a self-paced job simulation designed to develop cybersecurity investigation skills.  
+🔗 **Note:** This is a self-paced job simulation designed to develop cybersecurity investigation skills. 
 
