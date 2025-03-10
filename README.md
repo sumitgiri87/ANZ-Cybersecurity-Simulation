@@ -56,6 +56,45 @@ Your task is to **analyze each email** and determine whether it should be **bloc
 - **Check for spelling errors, urgency, or threats**—common phishing tactics.  
 - **Report suspicious emails** to IT/security teams rather than engaging with them.  
 
+## 🌐 Task 2: Digital Investigation  
+
+### 📌 Task Overview  
+Suspicious network activity has been detected from a **user on the ANZ network**. A **laptop has been flagged** in the security systems due to **unusual internet traffic**, requiring an investigation to determine the files accessed and images viewed by the user.  
+
+A **packet capture (PCAP) file** containing recent network activity has been provided. The objective is to analyze the network traffic, extract artifacts, and document findings in a structured report.  
+
+### 🛠️ Investigation Process  
+
+1️⃣ **Wireshark Installation**  
+   - Wireshark is required to open and analyze the PCAP file.  
+   - [Download Wireshark](https://www.wireshark.org/download.html) *(Free to use!)*  
+
+2️⃣ **HxD (Hex Editor) Installation**  
+   - A hex editor is needed for deeper packet analysis.  
+   - [Download HxD](https://mh-nexus.de/en/hxd/)  
+
+3️⃣ **PCAP File Analysis**  
+   - The network activity file is located in the **resources folder**.  
+   - [Download the PCAP file](./resources/Digital_Investigation Task (pcap file).pcapng)  
+
+4️⃣ **Network Traffic Examination**  
+   - Use **Wireshark** to inspect packet details and filter relevant traffic.  
+   - Use **HxD** to analyze packet contents at a binary level.  
+   - Identify **accessed files, viewed images, and suspicious network requests**.  
+
+5️⃣ **Findings Documentation**  
+   - The provided **task template** must be used to report findings.  
+   - [Download the task template](./resources/Task 2 - Answer Template) *(File upload limit: 20MB)*  
+
+### 🔒 Best Practices for Network Forensics  
+✅ Apply **Wireshark filters** to isolate specific traffic patterns  
+✅ Identify **HTTP requests, FTP transfers, and DNS queries**  
+✅ Examine **suspicious IP addresses and domain connections**  
+✅ Extract **embedded files and images** from network packets  
+✅ Maintain **detailed documentation of investigative steps**  
+
+---
+
 ## 🚀 About This Project  
 This project simulates **real-world cybersecurity tasks** at **ANZ Australia**, enhancing skills in:  
 ✅ Email threat analysis  
