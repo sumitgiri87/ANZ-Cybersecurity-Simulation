@@ -74,8 +74,7 @@ A **packet capture (PCAP) file** containing recent network activity has been pro
    - [Download HxD](https://mh-nexus.de/en/hxd/)  
 
 3️⃣ **PCAP File Analysis**  
-   - The network activity file is located in the **resources folder**.  
-   - [Download the PCAP file](./resources/Digital_Investigation Task (pcap file).pcapng)  
+   - The network activity file is located in the **resources folder**. (./resources/Digital_Investigation Task (pcap file).pcapng)  
 
 4️⃣ **Network Traffic Examination**  
    - Use **Wireshark** to inspect packet details and filter relevant traffic.  
@@ -83,8 +82,7 @@ A **packet capture (PCAP) file** containing recent network activity has been pro
    - Identify **accessed files, viewed images, and suspicious network requests**.  
 
 5️⃣ **Findings Documentation**  
-   - The provided **task template** must be used to report findings.  
-   - [Download the task template](./resources/Task 2 - Answer Template) *(File upload limit: 20MB)*  
+   - The provided **task template** must be used to report findings. (./resources/Task 2 - Answer Template) 
 
 ### 🔒 Best Practices for Network Forensics  
 ✅ Apply **Wireshark filters** to isolate specific traffic patterns  
